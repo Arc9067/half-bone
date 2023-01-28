@@ -586,7 +586,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #65392e;
+  background: #800000;
   bottom: 0;
   left: calc(50% - 25px);
 }
